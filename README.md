@@ -13,7 +13,8 @@
 <p>PIN_UART_TX = 0;
 <p>PIN_UART_RX = 1;
 
-![Device 1!](https://github.com/RomanKryvolapov/2.4_2.8_LCD_320x240_ILI9341_ESP32/blob/master/Display.jpg "Device 1")
+![D1!](https://github.com/RomanKryvolapov/ESP32C3_LUATOS_AIR101_ST7735_160x80_DISPLAY/blob/master/Display.jpg "1")
 
-![Device 2!](https://raw.githubusercontent.com/RomanKryvolapov/LoraMessengerESP32Client/main/ESP32.png "Device 2")
+![D2!](https://github.com/RomanKryvolapov/ESP32C3_LUATOS_AIR101_ST7735_160x80_DISPLAY/blob/master/Pinout_1.png "2")
 
+![D2!](https://github.com/RomanKryvolapov/ESP32C3_LUATOS_AIR101_ST7735_160x80_DISPLAY/blob/master/Pinout_2.png "2")
