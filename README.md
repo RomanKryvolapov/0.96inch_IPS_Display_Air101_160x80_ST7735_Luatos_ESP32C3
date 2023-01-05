@@ -15,6 +15,6 @@
 
 ![D1!](https://github.com/RomanKryvolapov/ESP32C3_LUATOS_AIR101_ST7735_160x80_DISPLAY/blob/master/Display.jpg "1")
 
-![D2!](https://github.com/RomanKryvolapov/ESP32C3_LUATOS_AIR101_ST7735_160x80_DISPLAY/blob/master/Pinout_1.png "2")
-
 ![D2!](https://github.com/RomanKryvolapov/ESP32C3_LUATOS_AIR101_ST7735_160x80_DISPLAY/blob/master/Pinout_2.png "2")
+
+![D2!](https://github.com/RomanKryvolapov/ESP32C3_LUATOS_AIR101_ST7735_160x80_DISPLAY/blob/master/Pinout_1.png "2")
